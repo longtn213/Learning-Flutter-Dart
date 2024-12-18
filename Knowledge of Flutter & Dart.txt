@@ -1,0 +1,7 @@
+Flutter : UI framework ( Code packages & utility functions for writing cross-platform app code ) + Collection of tools ( CLI & software that helps with developing, testing & building cross-platform apps)
+	+) Is not a programming language => It's a framework for building user interfaces with Dart
+	+) Single codebase - Multiple platform
+	+) Setup: 
+		1. Flutter SDK ( Flutter SDK : For managing Flutter projects, Git:Version control software, used internally by Flutter SDK )
+		2.
+		
